@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "18a0587f-ab64-4037-8cb0-901dc6776fa9",
+            "Value": {
+                "id": "2ff503e4-9ad9-4c94-add0-03ef1760b9e8",
+                "resourcePath": "objects\\kuutio\\kuutio.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2f926d51-fbb6-4da0-a6a5-288ffdb11ef6",
             "Value": {
                 "id": "e29bc8d4-3330-4108-81e6-8345f0072451",
