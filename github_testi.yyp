@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "95994800-375e-417c-a485-00018eee546b",
+            "Value": {
+                "id": "76f79cfb-d6f4-4adc-9536-c87cd8036393",
+                "resourcePath": "objects\\pallo\\pallo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9a4a63c6-c4bb-423a-ba98-cc04e107d53b",
             "Value": {
                 "id": "fe3382b6-d193-4b31-aa66-fd5241feaf3d",
